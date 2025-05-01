@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Hemamilaram.github.io/31r_react_demo",   //added
+  "homepage": "https://Hemamilaram.github.io/31r_react_demo", 
   "name": "static_website",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build", //added
-    "deploy": "gh-pages -d dist"    //added
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d dist"    
   },
   "dependencies": {
     "react": "^19.0.0",
