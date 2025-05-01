@@ -1,0 +1,43 @@
+#wecare{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to right, #E62517, #FD6315);
+    height: 650px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 60px;}
+.wecare_left{
+    padding-left: 80px;
+}
+
+
+#wecare_left1{
+    font-size: 90px;
+    font-family: sans-serif;
+    color: white;
+}
+#wecare_left2{
+    font-size: 25px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+#wecare_right{
+    height: 600px;
+    margin-top: 130px;
+}
+
+#wecare-btn {
+    color: #E62517;
+    background-color: white;
+    border: 2px solid #E62517;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+#wecare-btn:hover {
+    background-color: rgb(118, 79, 79);
+    color: white;
+  }

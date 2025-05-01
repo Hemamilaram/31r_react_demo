@@ -1,0 +1,31 @@
+#footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#footer > div > p{
+    font-size: 18px;
+    color: #888888; 
+    padding-bottom: 14px;
+}
+
+#footer > div > h2{
+    padding-bottom: 25px;
+}
+#footer > div > img{
+    padding-bottom: 15px;
+}
+
+hr{
+    color: #888888; 
+    margin: 0 200px;
+}
+
+#foot{
+    font-size: 20px;
+    color: #716d6d; 
+    text-align: center;
+}

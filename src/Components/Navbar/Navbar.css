@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#navbar_right{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(31, 30, 30);
+    font-family: sans-serif;
+    font-size: 19px;
+}

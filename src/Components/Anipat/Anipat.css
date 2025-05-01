@@ -1,0 +1,21 @@
+#anipat{
+    text-align: center;
+    font-family: sans-serif;
+    background: linear-gradient(to right, #E62517, #FD6315);
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#anipat-h{
+    font-size: 50px;
+    color: white;
+    padding-bottom: 19px;
+}
+#anipat-p{
+    font-size: 28px;
+    padding-bottom: 19px;
+    color: white;
+}

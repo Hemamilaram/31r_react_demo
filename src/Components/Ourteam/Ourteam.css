@@ -1,0 +1,18 @@
+#ourteam-cards{
+    display: flex;
+    gap: 25px;
+    padding: 70px 190px 100px 190px ;
+}
+#our-h{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+
+#our-p{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 19px;
+    color: #888888;
+}
